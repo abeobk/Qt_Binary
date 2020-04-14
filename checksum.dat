@@ -1,0 +1,9 @@
+913e61e8842876da8302c495fcda1c02d6995785 *./platforms/qwindows.dll
+5bf3852489b42a73e1d5eda75a070d13b1c37847 *./push.sh
+54575412347038f5e5a91b9d1a8562d239cdb441 *./Qt53DCore.dll
+7faca53d9f4a642caa8fc9d3469cbe14d844fcc1 *./Qt5Core.dll
+1436b04c3a8d8f28a072fc25d68a49fa33166c52 *./Qt5Gui.dll
+4883ab9287de227be3f434dbc5fffe87a9497d5d *./Qt5Network.dll
+5df764850bbfc4c2e0e3262b92c843b6520149e4 *./Qt5OpenGL.dll
+7850c8f330fa425a9432451eec51cb3be8da9c92 *./Qt5Svg.dll
+c7650c11ec1032af7473ae8d9b4ad2f10eb7f68b *./Qt5Widgets.dll
